@@ -3,16 +3,16 @@
 <p>This project is front-end part of a web application that allows a fitness trainer to efficiently manage appointments for clients. The website provide a user-friendly interface for the trainer to add, edit, and delete appointments, along with client details.</p>
 
 ## Features
--Add Appointment
--Delete Appointment
--Edit Appointment
+- Add Appointment
+- Delete Appointment
+- Edit Appointment
 
 ## Technology Stack
 <p> React JS </p>
 
 ## Project Installation and Setup
 **Step 00:** _Requirements Need to be installed before Setup_
-<p>Install node.js from</p>
+_Install node.js from_
 ```javascript
 https://nodejs.org/en
 ```
@@ -31,7 +31,7 @@ git clone https://github.com/muskan-1/Appointment-Scheduler.git
 ```javascript
 npm install
 ```
-<p>Install tailwind CSS</p>
+_Install tailwind CSS_
 ```javascript
 npm install -D tailwindcss
 ```
