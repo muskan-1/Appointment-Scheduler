@@ -1,8 +1,43 @@
-# React + Vite
+# Fitness Trainer Appointment Scheduling website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p>This project is front-end part of a web application that allows a fitness trainer to efficiently manage appointments for clients. The website provide a user-friendly interface for the trainer to add, edit, and delete appointments, along with client details.</p>
 
-Currently, two official plugins are available:
+## Features
+-Add Appointment
+-Delete Appointment
+-Edit Appointment
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technology Stack
+<p> React JS </p>
+
+## Project Installation and Setup
+**Step 00:** _Requirements Need to be installed before Setup_
+<p>Install node.js from</p>
+```javascript
+https://nodejs.org/en
+```
+<br/>
+
+**Step 01:** _Clone the repository_
+```javascript
+git clone https://github.com/muskan-1/Appointment-Scheduler.git
+```
+<br/>
+
+**Step 02:** _Open the repository in any text editor (VScode, Atom, etc)_
+<br/>
+
+**Step 03:** _Install dependencies/requirements_
+```javascript
+npm install
+```
+<p>Install tailwind CSS</p>
+```javascript
+npm install -D tailwindcss
+```
+<br/>
+
+**Step 04:** _Run Project using_
+```javascipt
+npm run dev
+```
